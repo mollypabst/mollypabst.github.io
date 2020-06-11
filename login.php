@@ -2,9 +2,9 @@
 require_once 'vendor/autoload.php';
 
 $session = new SpotifyWebAPI\Session(
-    'YOUR_CLIENT_ID',
-    'YOUR_CLIENT_SECRET',
-    'YOUR_DOMAIN/token.php'
+    'cf4e59ebaae34ef1b8abcedfaf2e3060',
+    '1c1f0a89686a40e3a47ff8f5ce889a67',
+    'artificial-incoherence.com/token.php'
 );
 
 $options = [
